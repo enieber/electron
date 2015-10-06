@@ -1,8 +1,14 @@
 # Quick Start
 
-Electron te permite criar aplicações para desktop com JavaScript puro, por rodar em tempo de execução como APIs nativas do sistema operacional. Você pode vê-lo como uma variação do Node.js, pois ele esta focado em apliações de desktop em vez de servidores.
+Electron enables you to create desktop applications with pure JavaScript by
+providing a runtime with rich native (operating system) APIs. You could see it
+as a variant of the Node.js runtime that is focused on desktop applications
+instead of web servers.
 
-Isto não significa que Electron está usando JavaScript para fazer a Interface Gráfica do Usuário (GUI, sigla em inglês). O Electron usa páginas da web como seu GUI, então você também pode vê-lo como um mini navegador Chromium controlado por JavaScript.
+This doesn't mean Electron is a JavaScript binding to graphical user interface
+(GUI) libraries. Instead, Electron uses web pages as its GUI, so you could also
+see it as a minimal Chromium browser, controlled by JavaScript.
+
 
 ### Main Process
 
